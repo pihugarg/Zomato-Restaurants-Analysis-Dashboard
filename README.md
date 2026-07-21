@@ -207,7 +207,7 @@ Zomato-Restaurants-Analysis-PowerBI
 ├── analysis
 │   └── Zomato_Restaurants_Analysis.pbix
 │
-├── Dataset
+├── data
 │   ├── Dataset.xlsx
 │   └── Country-Code.xlsx
 │
